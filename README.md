@@ -1,5 +1,6 @@
 - 👋 Hi there, I’m Ushavangala
 - 👀 I’m interested in EDA,DataScience and playing Violin :)
+- Working at WhitehatJr as a Python Instructor
 
 
 <!---
